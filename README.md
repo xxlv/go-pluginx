@@ -1,5 +1,7 @@
 # How it works ?
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/xxlv/go-pluginx.svg)](https://pkg.go.dev/github.com/xxlv/go-pluginx)
+
 ## Builder
 
 1. Create a Plugin Builder
