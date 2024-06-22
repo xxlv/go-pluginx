@@ -1,0 +1,6 @@
+plugins/data
+plugins/loader/data
+locals 
+go.work
+go.work.sum
+_examples/data 
