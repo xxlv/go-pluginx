@@ -17,7 +17,7 @@ import (
 
 	build "github.com/xxlv/go-pluginx/build"
 	storage "github.com/xxlv/go-pluginx/storage"
-	"github.com/xxlv/go-pluginx/storage/storages"
+	"github.com/xxlv/go-pluginx/storage/adapters"
 	utils "github.com/xxlv/go-pluginx/utils"
 )
 

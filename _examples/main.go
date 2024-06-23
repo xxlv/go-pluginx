@@ -7,7 +7,7 @@ import (
 
 	msgchannel "github.com/xxlv/go-pluginx/build"
 	"github.com/xxlv/go-pluginx/plugins"
-	"github.com/xxlv/go-pluginx/storage/storages"
+	storages "github.com/xxlv/go-pluginx/storage/adapters"
 )
 
 func main() {

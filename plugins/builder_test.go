@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/longbridgeapp/assert"
-	"github.com/xxlv/go-pluginx/storage/storages"
+	"github.com/xxlv/go-pluginx/storage/adapters"
 )
 
 func TestPluginBuilder_Build(t *testing.T) {

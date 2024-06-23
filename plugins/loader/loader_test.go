@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/xxlv/go-pluginx/plugins"
-	"github.com/xxlv/go-pluginx/storage/storages"
+	"github.com/xxlv/go-pluginx/storage/adapters"
 )
 
 func TestLoader_Run(t *testing.T) {
